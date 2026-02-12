@@ -1,0 +1,6 @@
+# Frontend (ignorado en rama backend)
+frontend/
+
+# Backend
+backend/node_modules/
+backend/.env
